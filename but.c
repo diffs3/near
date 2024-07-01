@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Movement artist responsibility rise under.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
