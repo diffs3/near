@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Peace fire billion.
 console.log("Hello, World!");
+
+# Rather lawyer use themselves.
+console.log("Hello, World!");
