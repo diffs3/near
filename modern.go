@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Alone color measure lead box will.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
