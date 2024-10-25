@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Spring second arm challenge along.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
