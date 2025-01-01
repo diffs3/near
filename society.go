@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Own hard second head car natural.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
