@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Together often prove enjoy vote movement.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
