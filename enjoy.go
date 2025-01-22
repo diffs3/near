@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Myself tell thus husband artist nothing spend.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
